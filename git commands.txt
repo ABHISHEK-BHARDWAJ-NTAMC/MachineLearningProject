@@ -4,3 +4,12 @@ git init - to initialize
 git status - to check status of uncommited changes
 git add . - add files for staging
 git commit -m "comment" . - for commiting files
+
+to create a branch locally
+
+
+git remote add origin https://github.com/ABHISHEK-BHARDWAJ-NTAMC/MachineLearningProject
+
+to push origin to master
+
+git push -u origin master
